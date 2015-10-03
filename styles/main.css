@@ -1,0 +1,14 @@
+html, body {
+    background-color: #fff;
+}
+
+
+#header {
+    background-color: black;
+    height: 20px;
+    width: 100%
+}
+
+#header_left span {
+    color: white;
+}
